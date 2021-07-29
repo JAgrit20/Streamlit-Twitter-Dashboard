@@ -1,3 +1,4 @@
 # Streamlit-Twitter-Dashboard
 Demo video is here
-![](http://i.imgur.com/OUkLi.gif)
+
+![](https://github.com/JAgrit20/Streamlit-Twitter-Dashboard/blob/master/demo.gif)
